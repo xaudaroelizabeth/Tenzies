@@ -21,7 +21,7 @@ CSS
 
 ---
 
-##🚀 Getting Started
+## 🚀 Getting Started
 
 Install dependencies and start the development server:
 
